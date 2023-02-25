@@ -1,0 +1,14 @@
+D:\Project\DotNet\SmartCity AA\SmartCity\bin\CropPrediction.dll.config
+D:\Project\DotNet\SmartCity AA\SmartCity\bin\CropPrediction.dll
+D:\Project\DotNet\SmartCity AA\SmartCity\bin\CropPrediction.pdb
+D:\Project\DotNet\SmartCity AA\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+D:\Project\DotNet\SmartCity AA\SmartCity\obj\Debug\SmartCity.csproj.ResolveComReference.cache
+D:\Project\DotNet\SmartCity AA\SmartCity\obj\Debug\CropPrediction.dll
+D:\Project\DotNet\SmartCity AA\SmartCity\obj\Debug\CropPrediction.pdb
+X:\projects\SmartCity AA Updated old version\SmartCity\bin\CropPrediction.dll.config
+X:\projects\SmartCity AA Updated old version\SmartCity\bin\CropPrediction.dll
+X:\projects\SmartCity AA Updated old version\SmartCity\bin\CropPrediction.pdb
+X:\projects\SmartCity AA Updated old version\SmartCity\obj\Debug\SmartCity.csprojAssemblyReference.cache
+X:\projects\SmartCity AA Updated old version\SmartCity\obj\Debug\SmartCity.csproj.CopyComplete
+X:\projects\SmartCity AA Updated old version\SmartCity\obj\Debug\CropPrediction.dll
+X:\projects\SmartCity AA Updated old version\SmartCity\obj\Debug\CropPrediction.pdb

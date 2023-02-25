@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>X:\projects\smrtpublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="addcomp.aspx">
+      <publishTime>05/17/2019 19:01:38</publishTime>
+    </File>
+    <File Include="AdminHome.aspx">
+      <publishTime>05/02/2019 05:49:42</publishTime>
+    </File>
+    <File Include="bin/CropPrediction.dll">
+      <publishTime>08/04/2020 20:15:59</publishTime>
+    </File>
+    <File Include="bin/CropPrediction.dll.config">
+      <publishTime>08/03/2020 19:10:00</publishTime>
+    </File>
+    <File Include="bin/CropPrediction.pdb">
+      <publishTime>08/04/2020 20:15:59</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>01/19/2018 20:49:24</publishTime>
+    </File>
+    <File Include="ccomp.aspx">
+      <publishTime>05/17/2019 19:21:26</publishTime>
+    </File>
+    <File Include="chome.aspx">
+      <publishTime>05/02/2019 06:26:26</publishTime>
+    </File>
+    <File Include="contact.aspx">
+      <publishTime>07/21/2020 17:20:29</publishTime>
+    </File>
+    <File Include="creplycomplaint.aspx">
+      <publishTime>05/02/2019 07:11:52</publishTime>
+    </File>
+    <File Include="guide.aspx">
+      <publishTime>07/21/2020 17:20:39</publishTime>
+    </File>
+    <File Include="images/3.jpg">
+      <publishTime>05/02/2019 05:07:08</publishTime>
+    </File>
+    <File Include="images/comp.png">
+      <publishTime>07/21/2020 13:56:00</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>05/03/2019 07:19:42</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>08/04/2020 20:09:25</publishTime>
+    </File>
+    <File Include="managepred.aspx">
+      <publishTime>05/02/2019 05:47:22</publishTime>
+    </File>
+    <File Include="ManageUs.aspx">
+      <publishTime>05/17/2019 18:25:54</publishTime>
+    </File>
+    <File Include="mancomp.aspx">
+      <publishTime>05/17/2019 19:19:32</publishTime>
+    </File>
+    <File Include="mhome.aspx">
+      <publishTime>05/17/2019 19:21:26</publishTime>
+    </File>
+    <File Include="mlahome.aspx">
+      <publishTime>05/17/2019 19:21:26</publishTime>
+    </File>
+    <File Include="mreplycomplaint.aspx">
+      <publishTime>05/02/2019 07:17:08</publishTime>
+    </File>
+    <File Include="mycomp.aspx">
+      <publishTime>05/03/2019 08:17:40</publishTime>
+    </File>
+    <File Include="prediction.aspx">
+      <publishTime>05/02/2019 05:47:22</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>08/04/2020 20:08:20</publishTime>
+    </File>
+    <File Include="stats.aspx">
+      <publishTime>05/02/2019 07:50:36</publishTime>
+    </File>
+    <File Include="upload.aspx">
+      <publishTime>05/02/2019 05:47:21</publishTime>
+    </File>
+    <File Include="upload/noimg.png">
+      <publishTime>05/03/2019 09:15:24</publishTime>
+    </File>
+    <File Include="userhome.aspx">
+      <publishTime>08/04/2020 20:13:47</publishTime>
+    </File>
+    <File Include="viewloc.aspx">
+      <publishTime>07/21/2020 17:00:46</publishTime>
+    </File>
+    <File Include="visitor.aspx">
+      <publishTime>05/03/2019 08:32:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/04/2020 20:16:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

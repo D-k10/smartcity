@@ -1,0 +1,14 @@
+H:\CropPrediction And\CropPrediction\bin\CropPrediction.dll.config
+H:\CropPrediction And\CropPrediction\bin\CropPrediction.dll
+H:\CropPrediction And\CropPrediction\bin\CropPrediction.pdb
+H:\CropPrediction And\CropPrediction\obj\Release\CropPrediction.csproj.ResolveComReference.cache
+H:\CropPrediction And\CropPrediction\obj\Release\CropPrediction.dll
+H:\CropPrediction And\CropPrediction\obj\Release\CropPrediction.pdb
+H:\CropPrediction And\CropPrediction\obj\Release\CropPrediction.csprojResolveAssemblyReference.cache
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\bin\CropPrediction.dll.config
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\bin\CropPrediction.dll
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\bin\CropPrediction.pdb
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\obj\Release\CropPrediction.csprojResolveAssemblyReference.cache
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\obj\Release\CropPrediction.csproj.ResolveComReference.cache
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\obj\Release\CropPrediction.dll
+D:\Project\DotNet\Agri IOT\IOT web Code\CropPrediction\obj\Release\CropPrediction.pdb
